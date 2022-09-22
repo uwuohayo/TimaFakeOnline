@@ -1,0 +1,9 @@
+name: TimaFakeOnline
+version: '${project.version}'
+main: ovh.rootkovskiy.timafakeonline.Main
+depend: [ ProtocolLib ]
+authors: [ timurroot ]
+description: Simple fake online plugin working with ProtocolLib
+website: www.rootkovskiy.ovh
+commands:
+  tfo: {}
